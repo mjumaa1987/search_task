@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="testing" verbose="1">
+
+    <listeners>
+    </listeners>
+
+    <test name="SearchTest">
+        <classes>
+            <class name="SearchFunction"/>
+        </classes>
+    </test>
+
+</suite>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="testing" duration-ms="82588" started-at="2016-10-18T21:14:26Z" finished-at="2016-10-18T21:15:49Z">
+    <groups>
+    </groups>
+    <test name="SearchTest" duration-ms="82588" started-at="2016-10-18T21:14:26Z" finished-at="2016-10-18T21:15:49Z">
+      <class name="SearchFunction">
+        <test-method status="PASS" signature="startDriver()[pri:0, instance:SearchFunction@668bc3d5]" name="startDriver" is-config="true" duration-ms="8814" started-at="2016-10-19T00:14:26Z" finished-at="2016-10-19T00:14:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method status="PASS" signature="filter_Search_Results()[pri:0, instance:SearchFunction@668bc3d5]" name="filter_Search_Results" duration-ms="7814" started-at="2016-10-19T00:14:35Z" finished-at="2016-10-19T00:14:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- filter_Search_Results -->
+        <test-method status="PASS" signature="stopDriver()[pri:0, instance:SearchFunction@668bc3d5]" name="stopDriver" is-config="true" duration-ms="132" started-at="2016-10-19T00:14:43Z" finished-at="2016-10-19T00:14:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopDriver -->
+        <test-method status="PASS" signature="startDriver()[pri:0, instance:SearchFunction@668bc3d5]" name="startDriver" is-config="true" duration-ms="9091" started-at="2016-10-19T00:14:43Z" finished-at="2016-10-19T00:14:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method status="PASS" signature="search_For_NonExist_Value()[pri:0, instance:SearchFunction@668bc3d5]" name="search_For_NonExist_Value" duration-ms="4041" started-at="2016-10-19T00:14:52Z" finished-at="2016-10-19T00:14:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search_For_NonExist_Value -->
+        <test-method status="PASS" signature="stopDriver()[pri:0, instance:SearchFunction@668bc3d5]" name="stopDriver" is-config="true" duration-ms="130" started-at="2016-10-19T00:14:56Z" finished-at="2016-10-19T00:14:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopDriver -->
+        <test-method status="PASS" signature="startDriver()[pri:0, instance:SearchFunction@668bc3d5]" name="startDriver" is-config="true" duration-ms="7008" started-at="2016-10-19T00:14:56Z" finished-at="2016-10-19T00:15:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method status="PASS" signature="search_Happy_Scenario()[pri:0, instance:SearchFunction@668bc3d5]" name="search_Happy_Scenario" duration-ms="4167" started-at="2016-10-19T00:15:03Z" finished-at="2016-10-19T00:15:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search_Happy_Scenario -->
+        <test-method status="PASS" signature="stopDriver()[pri:0, instance:SearchFunction@668bc3d5]" name="stopDriver" is-config="true" duration-ms="173" started-at="2016-10-19T00:15:07Z" finished-at="2016-10-19T00:15:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopDriver -->
+        <test-method status="PASS" signature="startDriver()[pri:0, instance:SearchFunction@668bc3d5]" name="startDriver" is-config="true" duration-ms="7913" started-at="2016-10-19T00:15:08Z" finished-at="2016-10-19T00:15:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method status="PASS" signature="search_Long_Term()[pri:0, instance:SearchFunction@668bc3d5]" name="search_Long_Term" duration-ms="2192" started-at="2016-10-19T00:15:15Z" finished-at="2016-10-19T00:15:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search_Long_Term -->
+        <test-method status="PASS" signature="stopDriver()[pri:0, instance:SearchFunction@668bc3d5]" name="stopDriver" is-config="true" duration-ms="134" started-at="2016-10-19T00:15:18Z" finished-at="2016-10-19T00:15:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopDriver -->
+        <test-method status="PASS" signature="startDriver()[pri:0, instance:SearchFunction@668bc3d5]" name="startDriver" is-config="true" duration-ms="6531" started-at="2016-10-19T00:15:18Z" finished-at="2016-10-19T00:15:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method status="PASS" signature="search_Results_Pagination()[pri:0, instance:SearchFunction@668bc3d5]" name="search_Results_Pagination" duration-ms="10277" started-at="2016-10-19T00:15:24Z" finished-at="2016-10-19T00:15:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search_Results_Pagination -->
+        <test-method status="PASS" signature="stopDriver()[pri:0, instance:SearchFunction@668bc3d5]" name="stopDriver" is-config="true" duration-ms="130" started-at="2016-10-19T00:15:35Z" finished-at="2016-10-19T00:15:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopDriver -->
+        <test-method status="PASS" signature="startDriver()[pri:0, instance:SearchFunction@668bc3d5]" name="startDriver" is-config="true" duration-ms="6479" started-at="2016-10-19T00:15:35Z" finished-at="2016-10-19T00:15:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method status="PASS" signature="sort_Search_Results()[pri:0, instance:SearchFunction@668bc3d5]" name="sort_Search_Results" duration-ms="7402" started-at="2016-10-19T00:15:41Z" finished-at="2016-10-19T00:15:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sort_Search_Results -->
+        <test-method status="PASS" signature="stopDriver()[pri:0, instance:SearchFunction@668bc3d5]" name="stopDriver" is-config="true" duration-ms="128" started-at="2016-10-19T00:15:49Z" finished-at="2016-10-19T00:15:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopDriver -->
+      </class> <!-- SearchFunction -->
+    </test> <!-- SearchTest -->
+  </suite> <!-- testing -->
+</testng-results>
